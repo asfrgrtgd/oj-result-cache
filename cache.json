@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "entries": {
+    "bfs_grid.cpp": {
+      "mtime_ns": 1769883420071896600,
+      "size": 1239,
+      "content_sha256": "836d4f0193a8acd9314606072ec52213b31d4e7a2c37620a009b9f5515772c4e",
+      "normalized_hash": "856ba8dcff1f0f1a524cc48a3c78bb6b0ba6932e7c0fb3bc77803cc3a5fdb150",
+      "token_count": 452
+    },
+    "bfs_grid_alt.cpp": {
+      "mtime_ns": 1769883428930705700,
+      "size": 1063,
+      "content_sha256": "fa645601bf5a81bdff7d990662012bf5747e68409166b44858515ccd54f06b69",
+      "normalized_hash": "856ba8dcff1f0f1a524cc48a3c78bb6b0ba6932e7c0fb3bc77803cc3a5fdb150",
+      "token_count": 452
+    },
+    "dijkstra.cpp": {
+      "mtime_ns": 1769883401069842500,
+      "size": 1062,
+      "content_sha256": "847a103a7480509b24311b95dae5667e86f6ba25b8b7d58600a926661d0f9844",
+      "normalized_hash": "fc345a41299895c125770a9eda0b44cf682004d63b8bb25b80a7a963acdb41b0",
+      "token_count": 355
+    },
+    "dijkstra_alt.cpp": {
+      "mtime_ns": 1769883408394111600,
+      "size": 914,
+      "content_sha256": "b72fd4d8c96ffa0c568a96a31a183519f331da74ca91630fba2956af419ee19d",
+      "normalized_hash": "fc345a41299895c125770a9eda0b44cf682004d63b8bb25b80a7a963acdb41b0",
+      "token_count": 355
+    },
+    "fib_sum.cpp": {
+      "mtime_ns": 1769883379640592900,
+      "size": 436,
+      "content_sha256": "ed52206ca3338a670a749f632b9a0c59fe409c19acd528fc8b660843c6ffc87b",
+      "normalized_hash": "4ee373514e5d629560ce118346b9e6e6bfa516354eb906abdeb3db66efe4a7e4",
+      "token_count": 131
+    },
+    "fib_sum_alt.cpp": {
+      "mtime_ns": 1769883384106912800,
+      "size": 398,
+      "content_sha256": "25163604be13a14bc4268ac6a1bd19d249c4e9958d70d31d46cab6ae00bb8560",
+      "normalized_hash": "4ee373514e5d629560ce118346b9e6e6bfa516354eb906abdeb3db66efe4a7e4",
+      "token_count": 131
+    },
+    "gcd_queries.cpp": {
+      "mtime_ns": 1769883443271138800,
+      "size": 930,
+      "content_sha256": "11ac7518504b74dcfc0f3642c1f0d118d5c4f01e43092d887bd3e28327f79c83",
+      "normalized_hash": "130f7880c8422596d790a52d26c085d8a4ab3e3d8ec704dea795e2a5989a2e68",
+      "token_count": 323
+    },
+    "matrix_power.cpp": {
+      "mtime_ns": 1769883453631977000,
+      "size": 921,
+      "content_sha256": "95a8c7deca2e21cda611f1a8ccc2ae0d48f2737cb568ff46f3bd6f6241d96536",
+      "normalized_hash": "22d87763fb6efe30aed931b9e012b5311c234d3f580f2a6d7c48d0e6d93863e9",
+      "token_count": 312
+    },
+    "prefix_min.cpp": {
+      "mtime_ns": 1769883461508089100,
+      "size": 546,
+      "content_sha256": "0502af794bc65aa44b2ce76152bc0e188b4cf99e87a0e1c435852898ba87dcc1",
+      "normalized_hash": "7d382ca39a6d48ef8d050bc89b66547a0565d4b189f319675fe5cc7bfb7526bd",
+      "token_count": 189
+    },
+    "rolling_hash.cpp": {
+      "mtime_ns": 1769883473546675000,
+      "size": 1028,
+      "content_sha256": "5c571bb989f57343f8e74f4a3471ea968db280ca07f471b84e4937c2559988ae",
+      "normalized_hash": "897b71b255fe624528fe5bd913940fc24e6dbeba5d8f25144726c4fc62345852",
+      "token_count": 323
+    }
+  },
+  "updated_at": "2026-01-31T18:21:49.471400+00:00"
+}
